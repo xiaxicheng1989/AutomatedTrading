@@ -36,4 +36,4 @@ The daily return is then accumulated to estimate monthly return. The figure betw
 (X axis shows the relative ROI.)
 
 
-It is worth noting, that the profit is highly dependent on the sentiment of the market. Passive long-term investment often show better result than active/ short term result. The graph above with around 5-10% average ROI is only for motivational purpose :)
+It is worth noting, that the profit is highly dependent on the sentiment of the market. Passive long-term investment often show better results than active/ short term investment. The graph above with around 5-10% monthly average ROI is only for motivational purpose :)
