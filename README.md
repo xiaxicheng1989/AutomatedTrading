@@ -26,7 +26,7 @@ As Trading212 doesn't provide API to send the orders, I use python to control th
 # Appendix:
 ## A. Test results
 <a id="Testresults"></a>
-To test the quality of the conditions used to make a buy/sell decision is tested on historical min data on larg-mid cap companies in SP500 over the period over 3 months at the start of 2019. Figure below show the a typical simulation carried out for a particular equity, where red means BUY and green mean sell.
+To test the quality of the conditions used to make a buy/sell decision, I use historical min data on larg-mid cap companies in SP500 over the period over 3 months at the start of 2019. Figure below show the a typical simulation carried out for a particular equity, where red means BUY and green mean sell.
 
 <img src="https://github.com/xiaxicheng1989/AutomatedTrading/blob/master/graphs/DailySimulation.png" width="80%">
 
